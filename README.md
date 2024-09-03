@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrccastillo
+- 👀 I’m interested in Video Games and Coding
+- 🌱 I’m currently learning React
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
