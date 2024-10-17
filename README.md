@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrccastillo
-- 👀 I’m interested in Video Games and Coding
+- 👀 I’m interested in creating kewl softwares
 - 🌱 I’m currently learning React and Tailwind
 - 😄 Pronouns: he/him
 
